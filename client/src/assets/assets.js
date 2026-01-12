@@ -264,7 +264,7 @@ export const dummyDashboardData = {
         {
             "_id": "683682072b5989c29fc6dc0d",
             "movie": dummyShowsData[4],
-            "showDateTime": "2025-06-05T15:30:00.000Z",
+            "showDateTime": "2026-01-11T15:30:00.000Z",
             "showPrice": 49,
             "occupiedSeats": {
                 "A1": "user_2xO4XPCgWWwWq9EHuQxc5UWqIok",
